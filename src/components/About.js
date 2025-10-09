@@ -231,7 +231,7 @@ const About = () => {
                   {
                     label: "LinkedIn",
                     value: "View Profile",
-                    link: "https://www.linkedin.com/in/shivanshkushwaha0007/",
+                    link: "https://www.linkedin.com/in/shivansh-kushwaha-5a3565309/",
                   },
                   {
                     label: "GitHub",
